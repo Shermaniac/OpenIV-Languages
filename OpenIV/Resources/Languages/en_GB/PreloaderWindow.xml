@@ -33,9 +33,9 @@
 					<Item Index='06' Value='Without specifying the game location, $AppName$ cannot open $RageGAME_SHORT$ files as it would not have enough information. Please set correct location of the installed $RageGAME$ below.'/>
 					<Item Index='07' Value='$RageGAME$ location:'/>
 					<Item Index='08' Value='Error: This folder does not exist.'/>
-					<Item Index='09' Value='Successfully: $AppName$ can work with this folder.'/>
+					<Item Index='09' Value='Success: $AppName$ can work with this folder.'/>
 					<Item Index='10' Value="Error: This folder doesn't contain the '$RageEncryptionStorage$' file."/>
-					<Item Index='11' Value='Successfully: $RageEncryptionStorage$, version %s\n$AppName$ can work with this file.'/>
+					<Item Index='11' Value='Success: $RageEncryptionStorage$, version %s\n$AppName$ can work with this file.'/>
 					<Item Index='12' Value='Backups'/>
 					<Item Index='13' Value='Do not forget to backup your original files before editing.'/>
 					<Item Index='14' Value='Windows 7'/>
@@ -92,9 +92,9 @@
 					<Item Index='02' Value='Change $RageGAME$ folder'/>
 					<Item Index='03' Value='Something wrong, please change $RageGAME$ folder below and restart $AppName$.'/>
 					<Item Index='04' Value='Error: This folder does not exist.'/>
-					<Item Index='05' Value='Successfully: $AppName$ can work with this folder.'/>
+					<Item Index='05' Value='Success: $AppName$ can work with this folder.'/>
 					<Item Index='06' Value="Error: This folder doesn't contain the '$RageEncryptionStorage$' file."/>
-					<Item Index='07' Value='Successfully: $RageEncryptionStorage$, version %s\n$AppName$ can work with this file.'/>
+					<Item Index='07' Value='Success: $RageEncryptionStorage$, version %s\n$AppName$ can work with this file.'/>
 					<Item Index='08' Value='Browse'/>
 					<Item Index='09' Value="Error: $AppName$ don't have access to work with this folder.\nRun $AppName$ with administrator rights."/>
 					<Item Index='10' Value="Error: The encryption key is not found in '$RageEncryptionStorage$' file."/>
