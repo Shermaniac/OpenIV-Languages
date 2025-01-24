@@ -33,7 +33,7 @@
 					<Item Index='06' Value='Without specifying the game location, $AppName$ cannot open $RageGAME_SHORT$ files as it would not have enough information. Please set correct location of the installed $RageGAME$ below.'/>
 					<Item Index='07' Value='$RageGAME$ location:'/>
 					<Item Index='08' Value='Error: This folder does not exist.'/>
-					<Item Index='09' Value='Successfully: $AppName$ can work with this folder.'/>
+					<Item Index='09' Value='Success: $AppName$ can work with this folder.'/>
 					<Item Index='10' Value="Error: This folder doesn't contain the '$RageEncryptionStorage$' file."/>
 					<Item Index='11' Value='Successfully: $RageEncryptionStorage$, version %s\n$AppName$ can work with this file.'/>
 					<Item Index='12' Value='Backups'/>
